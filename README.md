@@ -7,7 +7,7 @@
 
 - 🔭 J'étudie actuellement chez **O'Clock**
 
-- 📫 Comment me joindre **pro.nimbert@gmail.com**
+- 📫 Comment me joindre **bts.imbert@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
