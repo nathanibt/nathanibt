@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Moi c'est Imbert Nathan</h1>
-<h3 align="center">un futur développeur web passionné originaire de la côte d'azur</h3>
+<h3 align="center">Developpeur Web Back End spécialisé sur Symfony passionné originaire de la côte d'azur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanibt&label=Profile%20views&color=0e75b6&style=flat" alt="nathanibt" /> </p>
 
