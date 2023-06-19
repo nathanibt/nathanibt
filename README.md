@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/nathanibt" target="blank"><img src="https://img.shields.io/twitter/follow/nathanibt?logo=twitter&style=for-the-badge" alt="nathanibt" /></a> </p>
 
-- 🔭 J'étudie actuellement chez **O'Clock**
 
 - 📫 Comment me joindre **bts.imbert@gmail.com**
 
