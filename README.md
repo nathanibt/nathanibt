@@ -1,9 +1,7 @@
 <h1 align="center">Salut 👋, Moi c'est Imbert Nathan</h1>
 <h3 align="center">Developpeur Web Back End spécialisé sur Symfony passionné originaire de la côte d'azur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanibt&label=Profile%20views&color=0e75b6&style=flat" alt="nathanibt" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nathanibt" target="blank"><img src="https://img.shields.io/twitter/follow/nathanibt?logo=twitter&style=for-the-badge" alt="nathanibt" /></a> </p>
 
 
 - 📫 Comment me joindre **bts.imbert@gmail.com**
